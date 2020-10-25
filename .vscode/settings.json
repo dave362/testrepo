@@ -1,0 +1,9 @@
+{
+    "githubPullRequests.remotes": [
+        "origin",
+        "upstream",
+        "testrepo",
+        "https://github.com/dave362/testrepo.git",
+        "https://github.com/dave362/testrepo.git"
+    ]
+}
